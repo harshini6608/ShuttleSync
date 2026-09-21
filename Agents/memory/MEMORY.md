@@ -1,0 +1,1 @@
+- [OpenAPI codegen naming](api-codegen-naming.md) — use domain-specific response schema names to avoid Orval barrel collisions.
